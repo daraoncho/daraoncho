@@ -11,8 +11,8 @@ I'm fascinated by large-scale inventions and products that take things to the ne
 Outside of work, I watch movies, play a lot of video games, and make tech-related videos
 
 #### Let's connect!
-[<img alt="Mail" src="https://img.shields.io/badge/Mail-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](mailto:adebayooluwadarasimi1@gmail.com)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://ig.me/m/daraoncho)
+[<img alt="Mail" src="https://img.shields.io/badge/Mail-%23000000.svg?&style=for-the-badge&logo=Mail.ru&logoColor=white" />](mailto:adebayooluwadarasimi1@gmail.com)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://ig.me/m/daraoncho)
 
 <!--
 **daraoncho/daraoncho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
