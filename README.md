@@ -1,10 +1,10 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Dara**, an aspiring software engineer from Lagos, Nigeria.
+I'm **Dara**, a software engineer from Lagos, Nigeria.
 
 I have great interest in **full-stack development**, **game development**, **Artificial Intelligence**, and everything in-between.
 
-I'm a third year computer science major at Ekiti State University.
+I'm a high distinction computer science graduate from Ekiti State University.
 
 I'm fascinated by large-scale inventions and products that take things to the next level and impact people's lives!
 
